@@ -70,6 +70,8 @@ To ensure consistency, scalability, and maintainability across all repositories 
 
 ```bash
 aws/
+│── chore/
+│   └── docs                        # Documentation updates at the root level
 ├── project-a/
 │   ├── dev                         # Main development branch for Project A
 │   ├── feature/
