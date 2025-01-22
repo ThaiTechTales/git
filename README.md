@@ -14,10 +14,10 @@ This repository serves as a centralised hub for all Git-related projects, conven
 
 This repository includes, but is not limited to, the following areas:
 
-- Source Control Strategy: Standardising branch naming conventions, prefixes, and workflows for consistency across projects.
-- Commit Messages: Crafting clear, professional, and technically accurate commit messages.
-- Git Commands and Scripts: Useful commands, aliases, and scripts to automate or simplify Git tasks.
-- Git Projects and Conventions: Custom Git workflows, projects, and tools for specialised requirements or use cases.
+- **Source Control Strategy:** Standardising branch naming conventions, prefixes, and workflows for consistency across projects.
+- **Commit Messages:** Crafting clear, professional, and technically accurate commit messages.
+- **Git Commands and Scripts:** Useful commands, aliases, and scripts to automate or simplify Git tasks.
+- **Git Projects and Conventions:** Custom Git workflows, projects, and tools for specialised requirements or use cases.
 
 ## Source Control Strategy
 
