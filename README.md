@@ -40,31 +40,31 @@ To ensure consistency, scalability, and maintainability across all repositories 
 **<project-name>/feature/<specific-task>**
 
 - For new features or enhancements. These branches are created from `dev`, worked on, and merged back into dev upon completion.
-  - Example: project-a/feature/infra-setup
+  - **Example:** project-a/feature/infra-setup
 
 **<project-name>/bugfix/<specific-task>**
 
 - For fixing bugs identified during development or testing. These branches are created from dev and merged back into dev after the issue is resolved.
 
-  - Example: project-b/bugfix/fix-logic-error
+  - **Example:** project-b/bugfix/fix-logic-error
 
 **<project-name>/hotfix/<specific-task>**
 
 - For urgent fixes to production issues. These branches are created directly from main, then merged back into both main and dev.
 
-  - Example: project-c/hotfix/security-patch
+  - **Example:** project-c/hotfix/security-patch
 
 **<project-name>/release/<version>**
 
 - For preparing a project for release. These branches allow for final tweaks, minor fixes, and version tagging. Once ready, they are merged into main and tagged with the release version.
 
-  - Example: project-a/release/v1.0.0
+  - **Example:** project-a/release/v1.0.0
 
 **<project-name>/chore/<specific-task>**
 
 - For minor tasks that are not feature-related, such as updating dependencies, improving documentation, or cleaning up code.
 
-  - Example: project-c/chore/update-gitignore
+  - **Example:** project-c/chore/update-gitignore
 
 ### Branching Examples
 
